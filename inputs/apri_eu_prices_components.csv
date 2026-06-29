@@ -1,0 +1,111 @@
+year;sheet;component_label;sector_group_guess;eu_mean_price_eur_per_denom;unit_denom_kg;eu_mean_price_eur_per_kg;eu_countries_used;sector_group
+2015;Sheet 1;Soft Wheat;Wheat;16,48;100;0,1648;27;Wheat
+2016;Sheet 1;Soft Wheat;Wheat;14,56;100;0,1456;27;Wheat
+2017;Sheet 1;Soft Wheat;Wheat;15,423478260869569;100;0,1542347826086957;27;Wheat
+2018;Sheet 1;Soft Wheat;Wheat;17,01;100;0,17010000000000003;27;Wheat
+2019;Sheet 1;Soft Wheat;Wheat;16,668260869565216;100;0,16668260869565216;27;Wheat
+2020;Sheet 1;Soft Wheat;Wheat;16,931666666666665;100;0,16931666666666664;27;Wheat
+2021;Sheet 1;Soft Wheat;Wheat;21,25521739130435;100;0,21255217391304349;27;Wheat
+2022;Sheet 1;Soft Wheat;Wheat;32,19869565217392;100;0,3219869565217392;27;Wheat
+2023;Sheet 1;Soft Wheat;Wheat;22,75565217391304;100;0,2275565217391304;27;Wheat
+2024;Sheet 1;Soft Wheat;Wheat;20,20125;100;0,2020125;27;Wheat
+2015;Sheet 2;Rye;Other cereals and grains;13,645;100;0,13645;27;Other cereals and grains
+2016;Sheet 2;Rye;Other cereals and grains;12,742500000000001;100;0,127425;27;Other cereals and grains
+2017;Sheet 2;Rye;Other cereals and grains;13,75052631578947;100;0,13750526315789469;27;Other cereals and grains
+2018;Sheet 2;Rye;Other cereals and grains;15,305263157894737;100;0,15305263157894738;27;Other cereals and grains
+2019;Sheet 2;Rye;Other cereals and grains;14,473157894736843;100;0,14473157894736843;27;Other cereals and grains
+2020;Sheet 2;Rye;Other cereals and grains;13,854999999999995;100;0,13854999999999995;27;Other cereals and grains
+2021;Sheet 2;Rye;Other cereals and grains;17,266842105263155;100;0,17266842105263155;27;Other cereals and grains
+2022;Sheet 2;Rye;Other cereals and grains;27,13736842105263;100;0,2713736842105263;27;Other cereals and grains
+2023;Sheet 2;Rye;Other cereals and grains;19,72;100;0,1972;27;Other cereals and grains
+2024;Sheet 2;Rye;Other cereals and grains;16,773684210526316;100;0,16773684210526316;27;Other cereals and grains
+2015;Sheet 3;Barley;Barley;16,046;100;0,16046;27;Barley
+2016;Sheet 3;Barley;Barley;14,932857142857145;100;0,14932857142857145;27;Barley
+2017;Sheet 3;Barley;Barley;14,41952380952381;100;0,1441952380952381;27;Barley
+2018;Sheet 3;Barley;Barley;16,70952380952381;100;0,16709523809523807;27;Barley
+2019;Sheet 3;Barley;Barley;15,869047619047622;100;0,15869047619047622;27;Barley
+2020;Sheet 3;Barley;Barley;15,29809523809524;100;0,15298095238095238;27;Barley
+2021;Sheet 3;Barley;Barley;19,34315789473684;100;0,1934315789473684;27;Barley
+2022;Sheet 3;Barley;Barley;30,058;100;0,30058;27;Barley
+2023;Sheet 3;Barley;Barley;21,933157894736844;100;0,21933157894736843;27;Barley
+2024;Sheet 3;Barley;Barley;19,1585;100;0,191585;27;Barley
+2015;Sheet 4;Oats;Other cereals and grains;16,085833333333333;100;0,16085833333333333;27;Other cereals and grains
+2016;Sheet 4;Oats;Other cereals and grains;15,899166666666668;100;0,15899166666666667;27;Other cereals and grains
+2017;Sheet 4;Oats;Other cereals and grains;14,523478260869569;100;0,14523478260869568;27;Other cereals and grains
+2018;Sheet 4;Oats;Other cereals and grains;16,654347826086955;100;0,16654347826086954;27;Other cereals and grains
+2019;Sheet 4;Oats;Other cereals and grains;16,434782608695656;100;0,16434782608695656;27;Other cereals and grains
+2020;Sheet 4;Oats;Other cereals and grains;16,28478260869565;100;0,1628478260869565;27;Other cereals and grains
+2021;Sheet 4;Oats;Other cereals and grains;18,452272727272728;100;0,18452272727272728;27;Other cereals and grains
+2022;Sheet 4;Oats;Other cereals and grains;27,270909090909097;100;0,27270909090909096;27;Other cereals and grains
+2023;Sheet 4;Oats;Other cereals and grains;23,615909090909096;100;0,23615909090909096;27;Other cereals and grains
+2024;Sheet 4;Oats;Other cereals and grains;21,071304347826086;100;0,21071304347826086;27;Other cereals and grains
+2015;Sheet 5;Maize;Maize;15,534117647058823;100;0,15534117647058823;27;Maize
+2016;Sheet 5;Maize;Maize;15,398823529411763;100;0,15398823529411762;27;Maize
+2017;Sheet 5;Maize;Maize;15,34125;100;0,1534125;27;Maize
+2018;Sheet 5;Maize;Maize;15,806874999999998;100;0,15806874999999998;27;Maize
+2019;Sheet 5;Maize;Maize;15,275625;100;0,15275625;27;Maize
+2020;Sheet 5;Maize;Maize;15,673125;100;0,15673125000000002;27;Maize
+2021;Sheet 5;Maize;Maize;21,62666666666667;100;0,2162666666666667;27;Maize
+2022;Sheet 5;Maize;Maize;30,465333333333334;100;0,30465333333333333;27;Maize
+2023;Sheet 5;Maize;Maize;21,51125;100;0,2151125;27;Maize
+2024;Sheet 5;Maize;Maize;19,176000000000002;100;0,19176;27;Maize
+2015;Sheet 6;Sorghum;Other cereals and grains;16,607499999999998;100;0,16607499999999997;27;Other cereals and grains
+2016;Sheet 6;Sorghum;Other cereals and grains;15,8825;100;0,158825;27;Other cereals and grains
+2017;Sheet 6;Sorghum;Other cereals and grains;14,899999999999999;100;0,149;27;Other cereals and grains
+2018;Sheet 6;Sorghum;Other cereals and grains;16,236666666666668;100;0,1623666666666667;27;Other cereals and grains
+2019;Sheet 6;Sorghum;Other cereals and grains;14,933333333333332;100;0,14933333333333332;27;Other cereals and grains
+2020;Sheet 6;Sorghum;Other cereals and grains;15,426666666666668;100;0,15426666666666666;27;Other cereals and grains
+2021;Sheet 6;Sorghum;Other cereals and grains;21,0;100;0,21;27;Other cereals and grains
+2022;Sheet 6;Sorghum;Other cereals and grains;28,823333333333334;100;0,28823333333333334;27;Other cereals and grains
+2023;Sheet 6;Sorghum;Other cereals and grains;21,99;100;0,21989999999999998;27;Other cereals and grains
+2024;Sheet 6;Sorghum;Other cereals and grains;19,533333333333335;100;0,19533333333333336;27;Other cereals and grains
+2015;Sheet 7;Rape;Oilseeds;34,477500000000006;100;0,34477500000000005;27;Oilseeds
+2016;Sheet 7;Rape;Oilseeds;34,19894736842105;100;0,3419894736842105;27;Oilseeds
+2017;Sheet 7;Rape;Oilseeds;35,24368421052632;100;0,35243684210526316;27;Oilseeds
+2018;Sheet 7;Rape;Oilseeds;34,35052631578949;100;0,34350526315789487;27;Oilseeds
+2019;Sheet 7;Rape;Oilseeds;35,03947368421053;100;0,35039473684210526;27;Oilseeds
+2020;Sheet 7;Rape;Oilseeds;35,89842105263157;100;0,3589842105263157;27;Oilseeds
+2021;Sheet 7;Rape;Oilseeds;48,68888888888889;100;0,4868888888888889;27;Oilseeds
+2022;Sheet 7;Rape;Oilseeds;63,460555555555544;100;0,6346055555555554;27;Oilseeds
+2023;Sheet 7;Rape;Oilseeds;43,15894736842105;100;0,4315894736842105;27;Oilseeds
+2024;Sheet 7;Rape;Oilseeds;44,35294117647059;100;0,4435294117647059;27;Oilseeds
+2015;Sheet 8;Sunflowers;Oilseeds;35,944545454545455;100;0,35944545454545457;27;Oilseeds
+2016;Sheet 8;Sunflowers;Oilseeds;34,960909090909084;100;0,3496090909090908;27;Oilseeds
+2017;Sheet 8;Sunflowers;Oilseeds;32,148181818181826;100;0,32148181818181826;27;Oilseeds
+2018;Sheet 8;Sunflowers;Oilseeds;29,916363636363634;100;0,29916363636363635;27;Oilseeds
+2019;Sheet 8;Sunflowers;Oilseeds;30,939090909090908;100;0,30939090909090905;27;Oilseeds
+2020;Sheet 8;Sunflowers;Oilseeds;33,69090909090909;100;0,3369090909090909;27;Oilseeds
+2021;Sheet 8;Sunflowers;Oilseeds;47,02090909090909;100;0,4702090909090909;27;Oilseeds
+2022;Sheet 8;Sunflowers;Oilseeds;60,197272727272725;100;0,6019727272727272;27;Oilseeds
+2023;Sheet 8;Sunflowers;Oilseeds;38,42818181818182;100;0,38428181818181817;27;Oilseeds
+2024;Sheet 8;Sunflowers;Oilseeds;40,63636363636363;100;0,4063636363636363;27;Oilseeds
+2015;Sheet 9;Soya;Oilseeds;34,69;100;0,3469;27;Oilseeds
+2016;Sheet 9;Soya;Oilseeds;34,007777777777775;100;0,34007777777777776;27;Oilseeds
+2017;Sheet 9;Soya;Oilseeds;34,959999999999994;100;0,3495999999999999;27;Oilseeds
+2018;Sheet 9;Soya;Oilseeds;34,13333333333333;100;0,3413333333333333;27;Oilseeds
+2019;Sheet 9;Soya;Oilseeds;32,25222222222223;100;0,3225222222222223;27;Oilseeds
+2020;Sheet 9;Soya;Oilseeds;36,65444444444444;100;0,36654444444444434;27;Oilseeds
+2021;Sheet 9;Soya;Oilseeds;50,25444444444444;100;0,5025444444444443;27;Oilseeds
+2022;Sheet 9;Soya;Oilseeds;60,60666666666667;100;0,6060666666666666;27;Oilseeds
+2023;Sheet 9;Soya;Oilseeds;44,98555555555556;100;0,44985555555555556;27;Oilseeds
+2024;Sheet 9;Soya;Oilseeds;42,830000000000005;100;0,42830000000000007;27;Oilseeds
+2015;Sheet 10;Sugar Beet;Sugar Beet;30,672;1000;0,030672;27;Sugar Beet
+2016;Sheet 10;Sugar Beet;Sugar Beet;30,306666666666665;1000;0,030306666666666666;27;Sugar Beet
+2017;Sheet 10;Sugar Beet;Sugar Beet;29,340714285714284;1000;0,029340714285714286;27;Sugar Beet
+2018;Sheet 10;Sugar Beet;Sugar Beet;27,421538461538457;1000;0,027421538461538456;27;Sugar Beet
+2019;Sheet 10;Sugar Beet;Sugar Beet;27,827692307692306;1000;0,027827692307692307;27;Sugar Beet
+2020;Sheet 10;Sugar Beet;Sugar Beet;27,132500000000004;1000;0,027132500000000004;27;Sugar Beet
+2021;Sheet 10;Sugar Beet;Sugar Beet;28,614166666666666;1000;0,028614166666666666;27;Sugar Beet
+2022;Sheet 10;Sugar Beet;Sugar Beet;39,00461538461538;1000;0,039004615384615374;27;Sugar Beet
+2023;Sheet 10;Sugar Beet;Sugar Beet;43,688181818181825;1000;0,04368818181818183;27;Sugar Beet
+2024;Sheet 10;Sugar Beet;Sugar Beet;38,56272727272727;1000;0,03856272727272727;27;Sugar Beet
+2015;Sheet 11;Main crop potatoes;Potatoes;22,5684;100;0,225684;27;Potatoes
+2016;Sheet 11;Main crop potatoes;Potatoes;25,174399999999995;100;0,25174399999999997;27;Potatoes
+2017;Sheet 11;Main crop potatoes;Potatoes;21,756249999999998;100;0,2175625;27;Potatoes
+2018;Sheet 11;Main crop potatoes;Potatoes;24,46708333333333;100;0,2446708333333333;27;Potatoes
+2019;Sheet 11;Main crop potatoes;Potatoes;30,106249999999992;100;0,3010624999999999;27;Potatoes
+2020;Sheet 11;Main crop potatoes;Potatoes;24,039583333333336;100;0,24039583333333336;27;Potatoes
+2021;Sheet 11;Main crop potatoes;Potatoes;24,652499999999993;100;0,24652499999999994;27;Potatoes
+2022;Sheet 11;Main crop potatoes;Potatoes;34,28041666666666;100;0,3428041666666666;27;Potatoes
+2023;Sheet 11;Main crop potatoes;Potatoes;41,370000000000005;100;0,41370000000000007;27;Potatoes
+2024;Sheet 11;Main crop potatoes;Potatoes;42,35541666666666;100;0,4235541666666666;27;Potatoes
